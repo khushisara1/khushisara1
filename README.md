@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey, I'm Khushi Saraswat ✨</h1>
 
 <h3 align="center">
-🚀 CSE (AI & ML) Student | AI Explorer | Full Stack Learner | Future Innovator
+🚀 CSE (AI & ML) Student | AIML Explorer | Full Stack Learner | Future Innovator
 </h3>
 
 <p align="center">
@@ -20,7 +20,9 @@ Education: B.Tech CSE (AI & ML)
 Location: India 🇮🇳
 Passion: AI • ML • Web Dev • Data Engineering
 Currently Learning:
+  - Java
   - Python
+  - Artificial Intelligence
   - Machine Learning
   - DSA
   - Full Stack Development
