@@ -68,13 +68,7 @@ Goal:
 
 
 
-# 🏆 Featured Projects
 
-🌐 AI-Powered Blog Platform  
-🎂 Interactive Birthday Website  
-🤖 AI & ML Mini Projects  
-📊 Data Visualization Projects  
-💻 Full Stack Web Applications
 
 ---
 
