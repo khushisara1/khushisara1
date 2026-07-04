@@ -100,6 +100,9 @@ Goal:
 
 </p>
 
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=khushisara1)
 ---
 
 
