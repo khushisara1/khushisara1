@@ -51,7 +51,7 @@ Goal:
 🧩 Neural Networks  
 📈 Data Engineering  
 🔍 Computer Vision  
-💬 NLP (Natural Language Processing)
+💬 NLP 
 
 ---
 
