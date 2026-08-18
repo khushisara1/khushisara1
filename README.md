@@ -55,7 +55,7 @@ Goal:
 
 ---
 
-# 🚀 Current Mission
+# 🚀 Learnings
 
 - 🔥 Mastering DSA for coding interviews
 - 🛠️ Building AI-powered projects
