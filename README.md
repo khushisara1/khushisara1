@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey, I'm Khushi Saraswat ✨</h1>
 
 <h3 align="center">
-🚀 CSE (AI & ML) Student | AIML Explorer | Full Stack Learner 
+🚀 CSE (AI & ML) Student | AIML Explorer | Full Stack Learner |
 </h3>
 
 <p align="center">
